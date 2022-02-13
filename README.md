@@ -12,3 +12,5 @@ Opa! Wellington Ferreira da Silva aqui mas uma vez!!!!!!!
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wellington.silva.3781995/)
 
 ![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=wellnerds&theme=blue-green)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
